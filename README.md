@@ -1,5 +1,5 @@
 
-# Airlines Delay Prediction
+# Bitcoin-Price-Predictor 
 ![download](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_tVmolzIX_fgPQQetqyTdjriVs7erXGNQ5MeUWAmCLUNBbtW12Al_rn9hUeLEXI0ehk&usqp=CAU)
 
 
