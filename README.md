@@ -27,7 +27,14 @@ I have Downloaded this dataset from kaggle website. Here is the link: https://ww
 6. sklearn
 ## Visuals:
 
-<img src = "https://github.com/PiyushBL45t/ML-Crate/blob/main/Anime%20Data%20Analysis%20and%20Prediction/Images/Box%20plot%20pr%20year.png"/>
+<img src = "https://github.com/Shravanikale/bitcoin/blob/main/BC1.png"/>
+<img src = "https://github.com/Shravanikale/bitcoin/blob/main/BC2.png"/>
+<img src = "https://github.com/Shravanikale/bitcoin/blob/main/BC3.png"/>
+<img src = "https://github.com/Shravanikale/bitcoin/blob/main/BC4.png"/>
+<img src = "https://github.com/Shravanikale/bitcoin/blob/main/BC5.png"/>
+<img src = "https://github.com/Shravanikale/bitcoin/blob/main/BC6.png"/>
+<img src = "https://github.com/Shravanikale/bitcoin/blob/main/BC7.png"/>
+<img src = "https://github.com/Shravanikale/bitcoin/blob/main/BC8.png"/>
 
 
 ## Conclusion:
